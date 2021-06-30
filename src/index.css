@@ -210,15 +210,13 @@ h1 {
 
 /* --------- dragging position issue, solution -------- */
 .droppable-area {
-  /* border: 1px solid red; */
   top: auto !important; /* needed this */
   left: auto !important; /* needed this*/
-  /* position: static; */
   min-height: 100px;
 
   display: flex;
   flex-wrap: wrap;
-  flex-direction: column;
+  /* flex-direction: column; */
   justify-content: flex-start;
   align-items: flex-start;
 }

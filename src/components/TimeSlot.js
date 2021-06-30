@@ -8,7 +8,7 @@ function TimeSlot({groupId, dataGroup}) {
         <h3>Opening Ceremony</h3>
         <p>Get ready for an exciting event, this will kick off in amazing fashion with MOP & Busta Rhymes as an opening show.</p>    
   
-        <Droppable droppableId={`${groupId}`}>
+        <Droppable droppableId={`${groupId}`} direction="horizontal">
         {(provided, snapshot) => (
           <div className="droppable-area" ref={provided.innerRef} {...provided.droppableProps}>
           {dataGroup.map( (item, indexItem) => (
