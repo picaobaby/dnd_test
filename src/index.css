@@ -221,9 +221,3 @@ h1 {
   justify-content: flex-start;
   align-items: flex-start;
 }
-@media screen and (max-width: 768px) {
-  .droppable-area {
-    border:1px solid red;
-    flex-direction: column;
-  }
-}
