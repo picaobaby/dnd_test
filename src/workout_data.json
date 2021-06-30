@@ -1,0 +1,29 @@
+[
+    {
+        "id"    : "id for this hour slot",
+        "title" : "title for hour slot",
+        "desc"  : "descritpion text for this hour",
+        "time"  : "6:00 am - 7:00 am",
+        "ee"    : "others",
+        "ff"    : "later",
+        "moves" : [1, 2, 3, 4]
+    }, 
+    {
+        "id"    : "unique id",
+        "title" : "From 7 to 8 in the morning",
+        "desc"  : "eating breakfast",
+        "time"  : "7:00 am - 8:00 am",
+        "ee"    : "others",
+        "ff"    : "later",
+        "moves" : [3, 6]
+    }, 
+    {
+        "id"    : "8to9",
+        "title" : "from 8 to 9 in the morning",
+        "desc"  : "some stretches to start",
+        "time"  : "8:00 am - 9:00 am",
+        "ee"    : "others",
+        "ff"    : "later",
+        "moves" : [7, 4]
+    }    
+]

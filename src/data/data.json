@@ -1,0 +1,36 @@
+{
+    "groups": [
+        {
+            "id"        : "group_0",
+            "name"      : "",
+            "desc"      : "",
+            "time_range": "",
+            "workouts"  : ["workout_0", "workout_1", "workout_10"]
+        },        
+        {
+            "id"        : "group_1",
+            "name"      : "",
+            "desc"      : "",
+            "time_range": "",
+            "workouts"  : ["workout_1"]
+        }
+    ], 
+    "workouts": [
+        {
+            "id"        : "workout_0",
+            "name"      : "",
+            "desc"      : "",
+            "img"       : "",
+            "vid"       : "",
+            "repeats"   : 10
+        }, 
+        {
+            "id"        : "workout_1",
+            "name"      : "",
+            "desc"      : "",
+            "img"       : "",
+            "vid"       : "",
+            "repeats"   : 10
+        }
+    ]
+}
