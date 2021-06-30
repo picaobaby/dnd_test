@@ -5,7 +5,7 @@ function WorkoutMove({item, indexItem}) {
     return (
       <Draggable draggableId={`${item.id}`} index={indexItem}>
       {(provided, snapshot) => (
-        <a href="#" className="drag" ref={provided.innerRef} {...provided.draggableProps} {...provided.dragHandleProps} isDragging={snapshot.isDragging}>
+        <a href="#" className="drag" ref={provided.innerRef} {...provided.draggableProps} {...provided.dragHandleProps}>
           <img className="workout_thumb" src="./images/1.jpg" alt="" />
         </a>
         )}
