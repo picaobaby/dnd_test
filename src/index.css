@@ -225,8 +225,14 @@ h1 {
   overflow-x: auto;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   .timeline {
     border: 1px solid pink;
+    padding:10px;
+    margin-right:10px;
+  }
+  
+  .workout_thumb {
+    width:50px;
   }
 }
