@@ -224,3 +224,9 @@ h1 {
   white-space:nowrap; 
   overflow-x: auto;
 }
+
+@media screen and (max-width: 768px) {
+  .timeline {
+    border: 1px solid pink;
+  }
+}
