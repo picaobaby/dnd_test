@@ -230,6 +230,7 @@ h1 {
     border: 1px solid pink;
     padding:10px;
     margin-right:10px;
+    max-width: inherit;
   }
   
   .workout_thumb {
