@@ -13,6 +13,48 @@
             "desc"      : "",
             "time_range": "",
             "workouts"  : ["workout_1"]
+        }, 
+        {
+            "id"        : "group_2",
+            "name"      : "",
+            "desc"      : "",
+            "time_range": "",
+            "workouts"  : ["workout_0", "workout_1", "workout_10"]
+        },        
+        {
+            "id"        : "group_3",
+            "name"      : "",
+            "desc"      : "",
+            "time_range": "",
+            "workouts"  : ["workout_1"]
+        }, 
+        {
+            "id"        : "group_4",
+            "name"      : "",
+            "desc"      : "",
+            "time_range": "",
+            "workouts"  : ["workout_0", "workout_1", "workout_10"]
+        },        
+        {
+            "id"        : "group_5",
+            "name"      : "",
+            "desc"      : "",
+            "time_range": "",
+            "workouts"  : ["workout_1"]
+        }, 
+        {
+            "id"        : "group_6",
+            "name"      : "",
+            "desc"      : "",
+            "time_range": "",
+            "workouts"  : ["workout_0", "workout_1", "workout_10"]
+        },        
+        {
+            "id"        : "group_7",
+            "name"      : "",
+            "desc"      : "",
+            "time_range": "",
+            "workouts"  : ["workout_1"]
         }
     ], 
     "workouts": [
